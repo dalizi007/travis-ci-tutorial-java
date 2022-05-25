@@ -12,7 +12,7 @@ This is a working minimal example of how to use Travis CI (and Codecov) with Jav
 
 # How To Start
 
-1. [Fork](https://github.com/joaomlneto/travis-ci-tutorial-java/fork) this Repository
+1. [Fork](https://github.com/dalizi007/travis-ci-tutorial-java/fork) this Repository
 2. Go to [Travis CI](http://travis-ci.com) and enable the repository
 3. Fix the `README.md` badges (replacing in the URL `joaomlneto` with `your-github-username`) and push the changes. This should trigger a build in Travis CI!
 
@@ -26,7 +26,7 @@ What's done for you:
 
 If you want to use it:
 - Go to the Codecov website and create an account and setup permissions.
-- Add your repository (you can go there directly by going to https://codecov.io/gh/your-github-username/travis-ci-tutorial-java)
+- Add your repository (you can go there directly by going to https://codecov.io/gh/dalizi007/travis-ci-tutorial-java)
 - Fix the `README.md` badge.
 
 If you don't want it:
@@ -37,4 +37,4 @@ If you don't want it:
 # Contributing
 
 Spotted a mistake? Questions? Suggestions?  
-[Open an Issue](https://github.com/joaomlneto/travis-ci-tutorial-java/issues/new)!
+[Open an Issue](https://github.com/dalizi007/travis-ci-tutorial-java/issues/new)!
